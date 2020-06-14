@@ -3,6 +3,49 @@ Changelog
 
 Kafka features are not tied to a specific kafka-docker version (ideally all changes will be merged into all branches). Therefore, this changelog will track changes to the image by date.
 
+20-Apr-2020
+-----------
+
+-	Add support for Kafka `2.5.0`
+
+16-Mar-2020
+-----------
+
+-	Add support for Kafka `2.4.1`
+-	Update glibc to `2.31-r0`
+
+20-Dec-2019
+-----------
+
+-	Add support for Kafka `2.2.2`
+-	Update glibc to 2.30-r0
+
+17-Dec-2019
+-----------
+
+-	Add support for Kafka `2.4.0`
+
+26-Oct-2019
+-----------
+
+-	Add support for Kafka `2.3.1`
+
+28-Jun-2019
+-----------
+
+-	Add support for Kafka `2.3.0`
+
+04-Jun-2019
+-----------
+
+-	Updated `2.2.x` version to Kafka `2.2.1`
+-	Update base image to openjdk:8u212-jre-alpine
+
+15-Apr-2019
+-----------
+
+-	Update base image to openjdk:8u201-jre-alpine
+
 27-Mar-2019
 -----------
 
